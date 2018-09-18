@@ -3,7 +3,7 @@
 ### Mandatory
 
 - Can only use C
-- Must respect the school imposed coding style ([The Norme][norme-pdf])
+- Must respect the school imposed coding style
 - No memory leaks
 - Implement a series of builtins: `echo`, `cd`, `setenv`, `unsetenv`, `env`, `exit`
 - Manage the errors without using `errno`, by displaying a message adapted
